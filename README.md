@@ -9,5 +9,7 @@ Required Modules/Libraries:
 Express Framework
 
 SendGrid for sending emails (can be switched with a different service)
+
 Nexmo for sending sms (can be switched with a different service)
+
 Nodemon (optional)
